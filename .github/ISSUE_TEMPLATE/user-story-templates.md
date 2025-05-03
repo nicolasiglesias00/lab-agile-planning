@@ -1,6 +1,6 @@
 ---
-name: User Story Template
-about: This template is for creating user stories
+name: User Story Templates
+about: This is a template for creating user stories
 title: ''
 labels: ''
 assignees: ''
@@ -14,7 +14,7 @@ assignees: ''
  ### Details and Assumptions
  * [document what you know]
    
- ### Acceptance Criteria  
+ ### Acceptance Criterias  
    
  ```gherkin
  Given [some context]
